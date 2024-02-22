@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Kuredema7
-- 👀 I’m interested in Web Apps and Mobile Apps also I'm python interester.
-- 🌱 I’m currently learning python, web dev and mobile dev.
-- 💞️ I’m looking to collaborate on web apps and mobile apps.
-<!---
-- 📫 How to reach me ...
---->
+# Kure Dema Bere
 
-<!---
-Kuredema7/Kuredema7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**`Content Creator | Graphic Designer | Android Developer`**
+
+I'm a content creator and Android developer building my version of the digital world one step at a time.
+All projects are built from scratch, from brainstorming, planning and designing to solving real-world problems with code.
+All content articles are built the same way, from ideation, brainstorming and planning to publish them on my Facebook "[Kure Dema Bere][https://www.facebook.com/kuredema7]"
+
+<p>
+  <a href="https://www.facebook.com/kuredema7">
+       <img alt="total stars" title="Total followers on Facebook" src="https://www.facebook.com/kuredema7"/>
+  </a>
+</p>
