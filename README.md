@@ -7,5 +7,5 @@ All projects are built from scratch, from brainstorming, planning and designing 
 All content articles are built the same way, from ideation, brainstorming and planning to publish them on my Facebook "[Kure Dema Bere](https://www.facebook.com/kuredema7)"
 <p>
   <a href="https://github.com/Kuredema7?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kuredema7?color=f7d255&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kuredema7?color=f7d255&style=for-the-badge&labelColor=f7d255&logo=star"/></a>
 </p>
