@@ -25,3 +25,7 @@ All content articles are built the same way, from ideation, brainstorming and pl
 <br/>
 
 ---
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuredema7&show_icons=true&theme=gruvbox)
