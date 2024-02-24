@@ -28,4 +28,4 @@ All content articles are built the same way, from ideation, brainstorming and pl
 
 ### 📊 Stats
 
-![Kure's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuredema7&show_icons=true&theme=gruvbox)
+![Kure's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuredema7&show_icons=true&theme=nord)
